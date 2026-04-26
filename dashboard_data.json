@@ -1,0 +1,43 @@
+{
+  "updated": "2026-04-23 07:08",
+  "weather": {
+    "temp": 9,
+    "feels": 8,
+    "desc": "맑음",
+    "humidity": 81,
+    "icon": "01d"
+  },
+  "due_today": [],
+  "upcoming": [
+    {
+      "course": "AI and Business",
+      "name": "Summary for Week #7 (AI in Marketing) (Due: Apr 13(Mon))",
+      "due": "04/25 23:59",
+      "due_date": "2026-04-25"
+    },
+    {
+      "course": "Elementary Business Statistics",
+      "name": "midterm examination",
+      "due": "04/25 23:59",
+      "due_date": "2026-04-25"
+    },
+    {
+      "course": "AI and Business",
+      "name": "Summary of Week #9 lecture material (AI in Healthcare Management) ==> Due: April 27 (Mon)",
+      "due": "04/27 23:59",
+      "due_date": "2026-04-27"
+    },
+    {
+      "course": "AI and Business",
+      "name": "Summary of Week #10 lecture file --> Due: May 4 (Mon)",
+      "due": "05/04 23:59",
+      "due_date": "2026-05-04"
+    },
+    {
+      "course": "Consumer Behavior",
+      "name": "Written Assignment (Replacing Midterm Exam)",
+      "due": "05/10 23:59",
+      "due_date": "2026-05-10"
+    }
+  ]
+}
