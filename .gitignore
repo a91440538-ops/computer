@@ -1,0 +1,9 @@
+﻿.env
+credentials.json
+token.json
+__pycache__/
+*.pickle
+*.pdf
+*.log
+bot_err.txt
+bot_log.txt
